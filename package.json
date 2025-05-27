@@ -1,0 +1,16 @@
+{
+  "name": "api-playwright-framework",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.21",
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "validItem": { "name": "Sample Item", "price": 12 },
+  "invalidItem": { "name": "", "price": -1 }
+}
